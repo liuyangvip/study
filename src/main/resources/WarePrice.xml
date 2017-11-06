@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--商品系统的部分信息-->
 <WareSystem>
-    <!--商品信息部分-->
+<!--商品信息部分-->
     <Wares>
         <Ware>
             <id>01</id>
-            <name>水杯</name>
+            <name>水杯子</name>
         </Ware>
         <Ware>
             <id>02</id>
